@@ -1,2 +1,2 @@
 # merge-conflict-practice
-My first practical merge conflict 
+Side A says: choose tea.
